@@ -2,4 +2,6 @@
 2D Platformer Game
 
 Play as an werewolf in a quest to defeat the Grim Reaper. 2 different types of gameplay as a Man (Puzzle) and a Wolf (Action).
-![Beach_Koopa_SMW](https://github.com/lionelle234/Night-of-the-Wolf/assets/72669319/9f235e31-6c1a-4c32-8e44-319d4802af3f)
+
+![Captura de Tela (290)](https://github.com/lionelle234/Night-of-the-Wolf/assets/72669319/c195e0db-fede-4009-96e9-31e826b705ca)
+![Captura de Tela (291)](https://github.com/lionelle234/Night-of-the-Wolf/assets/72669319/2e91a4aa-a43e-4dfb-8ab8-e5d7495dc7fa)
