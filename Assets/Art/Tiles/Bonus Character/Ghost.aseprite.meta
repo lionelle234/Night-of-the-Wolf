@@ -1,0 +1,920 @@
+fileFormatVersion: 2
+guid: 6354218090c384d459d0d4549176c652
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Ghost_Frame_0
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 56
+      width: 21
+      height: 19
+    spriteID: 518d382dfda959c4db5f3a43c0fc5915
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 56}
+  - name: Ghost_Frame_1
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 94
+      y: 56
+      width: 21
+      height: 19
+    spriteID: d8b1d421e01aa2241a4e8f6fa38cb453
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 94, y: 56}
+  - name: Ghost_Frame_2
+    originalName: 
+    pivot: {x: 0.5652173, y: -0.73684204}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 29
+      width: 23
+      height: 19
+    spriteID: 14feaf45a2af13748a5bf8eae2bb6ac1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 29}
+  - name: Ghost_Frame_3
+    originalName: 
+    pivot: {x: 0.5652173, y: -0.73684204}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 35
+      y: 29
+      width: 23
+      height: 19
+    spriteID: fe211b7f30dc3e9428a7108895750904
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 35, y: 29}
+  - name: Ghost_Frame_4
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 123
+      y: 56
+      width: 21
+      height: 19
+    spriteID: 76a1c438b631d7845b915aca409b3dac
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 123, y: 56}
+  - name: Ghost_Frame_5
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 56
+      width: 21
+      height: 19
+    spriteID: f12c5c89ded167545b320bf45b9062db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 152, y: 56}
+  - name: Ghost_Frame_6
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.84210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 56
+      width: 21
+      height: 19
+    spriteID: 3a68c1eafb8666c49a0b97c66328b85a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 181, y: 56}
+  - name: Ghost_Frame_7
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.84210527}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 210
+      y: 56
+      width: 21
+      height: 19
+    spriteID: 669dcd8138347ae4d95c15a3ba21a935
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 210, y: 56}
+  - name: Ghost_Frame_8
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 83
+      width: 21
+      height: 19
+    spriteID: 31a9c60402267964787a22f9ae02cf98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 83}
+  - name: Ghost_Frame_9
+    originalName: 
+    pivot: {x: 0.6315789, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 110
+      width: 19
+      height: 19
+    spriteID: 14a6eb874716c61479814304dda7e194
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 110}
+  - name: Ghost_Frame_10
+    originalName: 
+    pivot: {x: 0.6190476, y: -0.73684204}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 33
+      y: 83
+      width: 21
+      height: 19
+    spriteID: 6bc1a5f8de3b6344497fe6a5a17643c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 33, y: 83}
+  - name: Ghost_Frame_11
+    originalName: 
+    pivot: {x: 0.6086957, y: -0.73684204}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 66
+      y: 29
+      width: 23
+      height: 19
+    spriteID: 7fc9f4b1524e32a4aba8bc2cdc7fe86d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 66, y: 29}
+  - name: Ghost_Frame_12
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 83
+      width: 21
+      height: 19
+    spriteID: b85555f9f78e7dc40828c5774f65d084
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 83}
+  - name: Ghost_Frame_13
+    originalName: 
+    pivot: {x: 0.5652173, y: -0.73684204}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 29
+      width: 23
+      height: 19
+    spriteID: 080278923a1571a4cbe594ccdac9fe9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 29}
+  - name: Ghost_Frame_14
+    originalName: 
+    pivot: {x: 0.5652173, y: -0.89473677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 29
+      width: 23
+      height: 19
+    spriteID: 8ea852fb05641f04cbf3d736d5bce11b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 29}
+  - name: Ghost_Frame_15
+    originalName: 
+    pivot: {x: 0.5652173, y: -0.89473677}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 159
+      y: 29
+      width: 23
+      height: 19
+    spriteID: 6c57068bce111c24d9d2ed1455f8f843
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 159, y: 29}
+  - name: Ghost_Frame_16
+    originalName: 
+    pivot: {x: 0.5652173, y: -0.73684204}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 29
+      width: 23
+      height: 19
+    spriteID: 2caf6e7a81cfb524896e58d16498f039
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 29}
+  - name: Ghost_Frame_17
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 83
+      width: 21
+      height: 19
+    spriteID: 763dc21d95fab5e44900c8a9977c9645
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 83}
+  - name: Ghost_Frame_18
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 83
+      width: 21
+      height: 19
+    spriteID: 0e13fc207346f0642a67940ae9b8f5ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 83}
+  - name: Ghost_Frame_19
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 83
+      width: 21
+      height: 19
+    spriteID: c1a5d5ef213212f48bcbf31f65ef2181
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 83}
+  - name: Ghost_Frame_20
+    originalName: 
+    pivot: {x: 0.6086957, y: -0.7777778}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 56
+      width: 23
+      height: 18
+    spriteID: c6e5bfeb20492e043a7bef332f77fcba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 56}
+  - name: Ghost_Frame_21
+    originalName: 
+    pivot: {x: 0.5769231, y: -0.8235294}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 26
+      height: 17
+    spriteID: fd2da86a29fef42488b7b408dcae3c97
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Ghost_Frame_22
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 178
+      y: 83
+      width: 21
+      height: 19
+    spriteID: c06794092ec790d489f6476565bc4347
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 178, y: 83}
+  - name: Ghost_Frame_23
+    originalName: 
+    pivot: {x: 0.5714286, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 83
+      width: 21
+      height: 19
+    spriteID: 31e27bd4475fe0d4a8a3728644060271
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 83}
+  - name: Ghost_Frame_24
+    originalName: 
+    pivot: {x: 0.6363637, y: -0.78947365}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 56
+      width: 22
+      height: 19
+    spriteID: 0f6adcb52e4c788428f9fc56a254420a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 56}
+  - name: Ghost_Frame_25
+    originalName: 
+    pivot: {x: 0.59259254, y: -0.875}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 221
+      y: 29
+      width: 27
+      height: 16
+    spriteID: 9a3b3846561b0c5469d09839da79cd4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 221, y: 29}
+  - name: Ghost_Frame_26
+    originalName: 
+    pivot: {x: 0.51515156, y: -1.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 4
+      width: 33
+      height: 8
+    spriteID: 06e2df12d08203d428e0882c4b970d9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 4}
+  - name: Ghost_Frame_27
+    originalName: 
+    pivot: {x: 0.4736842, y: -2}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 38
+      y: 4
+      width: 38
+      height: 7
+    spriteID: 62eda06123e9399479a3c51893627ead
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 38, y: 4}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1798907869
+    name: Ghost
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Ghost_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: 518d382dfda959c4db5f3a43c0fc5915
+    - name: Ghost_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: d8b1d421e01aa2241a4e8f6fa38cb453
+    - name: Ghost_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 11
+        y: 14
+        width: 23
+        height: 19
+      spriteId: 14feaf45a2af13748a5bf8eae2bb6ac1
+    - name: Ghost_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 11
+        y: 14
+        width: 23
+        height: 19
+      spriteId: fe211b7f30dc3e9428a7108895750904
+    - name: Ghost_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: 76a1c438b631d7845b915aca409b3dac
+    - name: Ghost_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: f12c5c89ded167545b320bf45b9062db
+    - name: Ghost_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 12
+        y: 16
+        width: 21
+        height: 19
+      spriteId: 3a68c1eafb8666c49a0b97c66328b85a
+    - name: Ghost_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 12
+        y: 16
+        width: 21
+        height: 19
+      spriteId: 669dcd8138347ae4d95c15a3ba21a935
+    - name: Ghost_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 11
+        y: 15
+        width: 21
+        height: 19
+      spriteId: 31a9c60402267964787a22f9ae02cf98
+    - name: Ghost_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 12
+        y: 15
+        width: 19
+        height: 19
+      spriteId: 14a6eb874716c61479814304dda7e194
+    - name: Ghost_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 11
+        y: 14
+        width: 21
+        height: 19
+      spriteId: 6bc1a5f8de3b6344497fe6a5a17643c7
+    - name: Ghost_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 10
+        y: 14
+        width: 23
+        height: 19
+      spriteId: 7fc9f4b1524e32a4aba8bc2cdc7fe86d
+    - name: Ghost_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: b85555f9f78e7dc40828c5774f65d084
+    - name: Ghost_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 11
+        y: 14
+        width: 23
+        height: 19
+      spriteId: 080278923a1571a4cbe594ccdac9fe9b
+    - name: Ghost_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 11
+        y: 17
+        width: 23
+        height: 19
+      spriteId: 8ea852fb05641f04cbf3d736d5bce11b
+    - name: Ghost_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 11
+        y: 17
+        width: 23
+        height: 19
+      spriteId: 6c57068bce111c24d9d2ed1455f8f843
+    - name: Ghost_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 11
+        y: 14
+        width: 23
+        height: 19
+      spriteId: 2caf6e7a81cfb524896e58d16498f039
+    - name: Ghost_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: 763dc21d95fab5e44900c8a9977c9645
+    - name: Ghost_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: 0e13fc207346f0642a67940ae9b8f5ec
+    - name: Ghost_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: c1a5d5ef213212f48bcbf31f65ef2181
+    - name: Ghost_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 10
+        y: 14
+        width: 23
+        height: 18
+      spriteId: c6e5bfeb20492e043a7bef332f77fcba
+    - name: Ghost_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 9
+        y: 14
+        width: 26
+        height: 17
+      spriteId: fd2da86a29fef42488b7b408dcae3c97
+    - name: Ghost_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: c06794092ec790d489f6476565bc4347
+    - name: Ghost_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 12
+        y: 15
+        width: 21
+        height: 19
+      spriteId: 31e27bd4475fe0d4a8a3728644060271
+    - name: Ghost_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 10
+        y: 15
+        width: 22
+        height: 19
+      spriteId: 0f6adcb52e4c788428f9fc56a254420a
+    - name: Ghost_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 8
+        y: 14
+        width: 27
+        height: 16
+      spriteId: 9a3b3846561b0c5469d09839da79cd4e
+    - name: Ghost_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 7
+        y: 14
+        width: 33
+        height: 8
+      spriteId: 06e2df12d08203d428e0882c4b970d9a
+    - name: Ghost_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 6
+        y: 14
+        width: 38
+        height: 7
+      spriteId: 62eda06123e9399479a3c51893627ead
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}

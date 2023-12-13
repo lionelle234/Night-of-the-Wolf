@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Interactible
+  - Ladder
+  - Ledge
+  - HitBox
+  - Hide
+  - Enemy
+  - Cam
+  - CamPlus
+  - CamMinus
+  - Hazard
+  - Item
+  - DropKill
+  - NextScene
+  - Projectile
+  - HitBoxKill
+  - Boss
+  - Floor
+  - BossAttack
+  - Dialogue
+  - CheckPoint
+  - HUD
+  - WaterInteraction
+  - WaterCrest
+  - Water
+  - Solid
+  - Flip
+  - PowerUp
+  - Holdable
+  - Health
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ladder
+  - 
+  - Ground
+  - Enemy
+  - Player
+  - InspectObject
+  - PostProcessing
+  - Stop
+  - BlockVision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 1802038029
+    locked: 0
